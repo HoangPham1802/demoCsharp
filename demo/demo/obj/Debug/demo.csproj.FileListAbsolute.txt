@@ -1,0 +1,5 @@
+c:\users\hoang\documents\visual studio 2017\Projects\demo\demo\bin\Debug\demo.exe
+c:\users\hoang\documents\visual studio 2017\Projects\demo\demo\bin\Debug\demo.pdb
+c:\users\hoang\documents\visual studio 2017\Projects\demo\demo\obj\Debug\demo.csprojResolveAssemblyReference.cache
+c:\users\hoang\documents\visual studio 2017\Projects\demo\demo\obj\Debug\demo.exe
+c:\users\hoang\documents\visual studio 2017\Projects\demo\demo\obj\Debug\demo.pdb
